@@ -1,0 +1,14 @@
+.header {
+	height: 60px;
+}
+.header-logo {
+    height: 60px;
+    line-height: 60px;
+    font-size: 25px;
+    padding-left: 20px;
+}
+.header-user {
+    float: right;
+    line-height: 60px;
+    margin-right: 20px;	
+}

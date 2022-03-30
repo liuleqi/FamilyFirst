@@ -1,0 +1,12 @@
+.login-box {
+	max-width: 350px;
+	margin:auto;
+	margin-top:200px;	
+}
+.sr-only {
+    width: 100px;
+    display: inline-block;
+	
+	margin-top: 10px;
+
+}
